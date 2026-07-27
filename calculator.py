@@ -7,5 +7,5 @@ def subtract(a, b):
 def divide(a, b):
     return a/b
 
-def square(a, b):
+def square_free(a, b):
     return a**b
